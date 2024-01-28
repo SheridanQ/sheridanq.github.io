@@ -2,25 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: My name is pronounce as <a href='https://www.howtopronounce.com/chinese/xiaoxiao-qi'>'shyow-shyow chee'</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: xiaoxiao_shorthair.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>A happy face before going to a music concert.</p>
 
 news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I work as a Senior Data Scientist in an Ad Optimization team of a DSP (Demand-Side Platform) company. I hold a PhD degree in computational neuroimaging.  
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I have contributed to several industry-level projects that enhanced the campaign performance using techniques such as optimization, machine learning, RNN, non-parametric modeling, control theory, data engineering, and programmatic advertising domain knowledge. Among the various projects I have worked on, the most impactful one helped the business reduce COGS by at least 10%.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+During my phd, I developed a data resource package for [human brain atlas](https://www.nitrc.org/projects/iit/) that functions like the Google Maps for the brain. The coolest thing about this package is that it provides you a list of probalities that inform you about the strength of the connections between gray matter regions in your brain’s white matter.
