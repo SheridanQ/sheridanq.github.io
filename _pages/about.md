@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: My name is pronounce as <a href='https://www.howtopronounce.com/chinese/xiaoxiao-qi'>'shyow-shyow chee'</a>.
+subtitle: My name is pronounced as <a href='https://www.howtopronounce.com/chinese/xiaoxiao-qi'>'shyow-shyow chee'</a>.
 
 profile:
   align: right

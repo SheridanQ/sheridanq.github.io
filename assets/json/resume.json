@@ -3,8 +3,8 @@
     "name": "Xiaoxiao Qi",
     "title": "Senior Data Scientist",
     "image": "",
-    "email": "xqiepsilon@gmail.com",
-    "phone": "(312) 536-0738",
+    "email": "xiaoxiao_qi@outlook.com",
+    "phone": "+1(312) 536-0738",
     "url": "https://sheridanq.github.io/",
     "summary": "Technical engineer in progammatic Ads optimization, machine learning, data engineering, statistical modeling, signal processing, computer vision and control theory. Holds a Ph.D. in Biomedical Engineering with a focus on Neuroimaging data resource development.",
     "location": {
@@ -19,7 +19,7 @@
   "work": [
     {
       "name": "Decision Science, Epsilon",
-      "position": "  Senior Data Scientist",
+      "position": "&emsp;Senior Data Scientist",
       "url": "",
       "startDate": "2021-01-11",
       "endDate": "",
@@ -33,13 +33,13 @@
       "location": "Chicago",
       "url": "https://www-p-64.iit.edu/~mri/People.html",
       "area": "Medical Imaging and Computer Vision Research",
-      "studyType": "  Ph.D. in Biomedical Engineering",
+      "studyType": "&emsp;Ph.D. in Biomedical Engineering",
       "startDate": "2015-08-15",
       "endDate": "2020-12-20",
       "score": "3.9",
       "courses": [
-        "Thesis: IIT Human Brain Atals (v.5.0) and <a href='https://www.nitrc.org/frs/?group_id=432'>Regionnconnect</a>",
-        "Courses: Applied Optimization for Engineers, Computer Vision and Image Processing, Machine Learning, Data Structures and Algorithms, Biomedical Informatics, Numerical Methods in Biomedical Engineering, Finite Element Method, Neuroimaging, Analysis of Random Signals, Biostatistics "
+        "<b>Thesis</b>: IIT Human Brain Atals (v.5.0) and <a href='https://www.nitrc.org/frs/?group_id=432'>Regionnconnect</a>",
+        "<b>Courses</b>: Applied Optimization for Engineers, Computer Vision and Image Processing, Machine Learning, Data Structures and Algorithms, Biomedical Informatics, Numerical Methods in Biomedical Engineering, Finite Element Method, Neuroimaging, Analysis of Random Signals, Biostatistics "
       ]
     }
   ],
